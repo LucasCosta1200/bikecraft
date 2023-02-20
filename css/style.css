@@ -52,6 +52,9 @@ a{
     transition: 0.35s;
 }
 @media (max-width: 800px) {
+    .header{
+        justify-content: center;
+    }
     .header-menu{
         gap: 20px;
     }
@@ -62,6 +65,7 @@ a{
     }
     .header-menu a:hover{
         background-color: #2e2e2e;
+        transition: 0.3s;
     }
     .header-menu a::after{
         display: none;
@@ -70,6 +74,7 @@ a{
 @media (max-width: 400px){
     .header-menu{
         gap: 12px;
+        justify-content: center;
 
     }
     .header-menu a{
