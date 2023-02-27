@@ -17,4 +17,6 @@
 /* depoimento */
 @import "./home/depoimento.css";
 /* Seguros */
-@import "./home/seguro.css"
+@import "./home/seguro.css";
+/* Rodapé do site */
+@import "./global/footer.css"
