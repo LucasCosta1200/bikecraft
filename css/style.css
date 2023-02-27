@@ -11,4 +11,10 @@
 /* Bicicletas */
 @import "./bicicletas/bicicletas_lista.css";
 /* Tecnologia */
-@import "./home/tecnologia.css"
+@import "./home/tecnologia.css";
+/* Parceiros */
+@import "./home/parceiros.css";
+/* depoimento */
+@import "./home/depoimento.css";
+/* Seguros */
+@import "./home/seguro.css"

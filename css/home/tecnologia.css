@@ -41,4 +41,26 @@
     margin-bottom: 8px;
     width: 24px;
 }
-
+@media (max-width:800px){
+    .tecnologia{
+        grid-template-columns: 1fr;
+    }
+    .tecnologia-conteudo{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .tecnologia-bg{
+        box-shadow: initial;
+    }
+    .tecnologia-imagem{
+        display: none;
+    }
+    .tecnologia-conteudo a{
+        margin-bottom: 60px;
+    }
+}
+@media (max-width:600px){
+    .tecnologia-vantagens{
+        flex-direction: column;
+    }
+}
