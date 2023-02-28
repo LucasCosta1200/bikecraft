@@ -27,3 +27,7 @@
 
 /* Bicicletas css */
 @import "./bicicletas/bicicletas.css";
+
+/* Seguros */
+@import"./seguros/perguntas.css";
+@import"./seguros/vantagens.css";
