@@ -16,6 +16,7 @@ a{
 img{
     max-width: 100%;
     display: block;
+    box-sizing: border-box;
 }
 img[src$=".jpg"]{
     border-radius: 4px;
