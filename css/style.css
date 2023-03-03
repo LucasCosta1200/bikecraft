@@ -37,3 +37,10 @@
 
 /* Conheça o seguro */
 @import "./seguros/seguro.css";
+
+/* Contatos */
+@import "./contatos/contatos.css";
+
+@import "./utilidades/formulario.css";
+
+@import "./contatos/lojas.css";
